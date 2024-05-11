@@ -4,6 +4,7 @@
 •	Operating System: FreeRTOS
 
 •	Hardware: LCD TFT 1.8inch, Rotary Encoder, Touch Sensor, Loadcell, Sensor Water, Module Thernal Sensor Temperature, Module Relay, Module Drive L298,  Limit Switch, Buzzer.
+
 •	Peripherals: PWM, I/O, ADC, DMA 
 
 •	Protocol: SPI, 2 Wire
