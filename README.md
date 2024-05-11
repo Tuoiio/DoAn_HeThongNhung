@@ -1,11 +1,17 @@
 
 •	Microcontroller: STM32F103C8
+
 •	Operating System: FreeRTOS
+
 •	Hardware: LCD TFT 1.8inch, Rotary Encoder, Touch Sensor, Loadcell, Sensor Water, Module Thernal Sensor Temperature, Module Relay, Module Drive L298,  Limit Switch, Buzzer.
 •	Peripherals: PWM, I/O, ADC, DMA 
+
 •	Protocol: SPI, 2 Wire
+
 •	Technical Skill: C
+
 •	Enviroment development: KeilC, Matlab
+
 •	Description: There are 4 main tasks: Screen task, peripheral reading task, buzzer task, motor control task.
                The rotary encoder is used to select the operating mode. There are 3 touch sensors used to set water temperature, spin speed and confirm running cycles.
                Display selected parameters via LCD TFT screen (using SPI DMA). When you press to confirm the running cycle but the weight is too high or the limit
@@ -17,4 +23,5 @@
 Màn hình chính
 ![image](https://github.com/Tuoiio/DoAn_HeThongNhung/assets/158831746/b2761b0f-11b5-44c2-b428-2096686d037f)
 Màn hình chọn chế độ
+
 https://www.youtube.com/watch?v=AId59z1tQlM
